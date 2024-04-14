@@ -34,7 +34,6 @@ function App() {
     };
   }
 
-  // modern, smarter, stronger and better way
   // const onClickHandler = (team) => (event) => team === "home"
   //       ? handleScore(team, points, setHomeTeamScore)
   //       : handleScore(team, points, setAwayTeamScore);
